@@ -1,3 +1,3 @@
-from db.sqlalchemy import models
-from db.sqlalchemy import api as db_api
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
